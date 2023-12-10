@@ -1,43 +1,31 @@
 const quotes = [
     {
-        quote: "I just wanted to take another look at you.",
-        author: "A star is born",
+        quote: "일하다가 졸리면 몰래 졸면 됩니다.",
+        author: "",
     },
     {
-        quote: "The greatest thing you'll ever learn is just to love and be loved in return.",
-        author: "Moulin Rouge",
+        quote: "오늘 저녁은 맛있는거 먹어요.",
+        author: "",
     },
     {
-        quote: "It's only after we've lost everything that we're free to do anything.",
-        author: "Fight Club",
+        quote: "오늘은 꼭 정시퇴근 하세요.",
+        author: "",
     },
     {
-        quote: "The past can hurt, but you can either run from it, or learn from it.", 
-        author: "Lion King",
+        quote: "오늘은 엘리베이터 대신 계단을 이용하세요.", 
+        author: "",
     },
     {
-        quote: "If we didn't do what we loved, we wouldn't exist.",
-        author: "Adonis",
+        quote: "물 자주 마셔요.",
+        author: "",
     },
     {
-        quote: "At some point you've got to decide for yourself who you gonna be. Can't let nobody make that decision for you.",
-        author: "Moonlight",
+        quote: "일은 중간만큼 열심히 하면 됩니다.",
+        author: "",
     },
     {
-        quote: "Every man dies, not every man really lives.",
-        author: "Braveheart",
-    },
-    {
-        quote: "Carpe Diem, Seize the day. Make your lives extraordinary.",
-        author: "Dead Poets Societ",
-    },
-    {
-        quote: "Being Human is a condition which requires an anesthetic.",
-        author: "Bohemian Rhapsody",
-    },
-    {
-        quote: "hope is good thing, maybe the best of things, And no good thing ever dies.",
-        author: "The Shawshank Redemption",
+        quote: "자이언티 ZIP 앨범 좋아요. 꼭 들어보세요. 특히 4번 트랙 추천 드립니다.",
+        author: "",
     },
 
 ]

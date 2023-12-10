@@ -15,7 +15,6 @@ function deleteToDo(event){
 }
 
 
-
 function saveToDos(){
     localStorage.setItem("TODOS_KEY", JSON.stringify(toDos));
 }
@@ -45,10 +44,15 @@ function handleTodoSubmit(event){
         text: newTodo,
         id:Date.now()
     };
-
-    toDos.push(newTodoObj);
-    paintToDo(newTodoObj);
-    saveToDos();
+   
+    if(toDos.length > 6){
+        alert("오늘 할일이 너무 많은거 아닌가요?");
+    }else{
+        toDos.push(newTodoObj);
+        paintToDo(newTodoObj);
+        saveToDos();
+    }
+    
 }
 
 
